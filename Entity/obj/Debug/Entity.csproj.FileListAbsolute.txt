@@ -3,3 +3,8 @@ D:\outsource\picfix\Entity\bin\Debug\Entity.pdb
 D:\outsource\picfix\Entity\obj\Debug\Entity.dll
 D:\outsource\picfix\Entity\obj\Debug\Entity.pdb
 D:\outsource\picfix\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+D:\g\outsource\picfix\Entity\bin\Debug\Entity.dll
+D:\g\outsource\picfix\Entity\bin\Debug\Entity.pdb
+D:\g\outsource\picfix\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+D:\g\outsource\picfix\Entity\obj\Debug\Entity.dll
+D:\g\outsource\picfix\Entity\obj\Debug\Entity.pdb
