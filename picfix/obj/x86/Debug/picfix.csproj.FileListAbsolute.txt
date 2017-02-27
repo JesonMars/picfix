@@ -1,0 +1,7 @@
+D:\outsource\picfix\picfix\obj\x86\Debug\picfix.Properties.Resources.resources
+D:\outsource\picfix\picfix\obj\x86\Debug\picfix.csproj.GenerateResource.Cache
+D:\outsource\picfix\picfix\bin\Debug\picfix.exe
+D:\outsource\picfix\picfix\bin\Debug\picfix.pdb
+D:\outsource\picfix\picfix\obj\x86\Debug\picfix.exe
+D:\outsource\picfix\picfix\obj\x86\Debug\picfix.pdb
+D:\outsource\picfix\picfix\obj\x86\Debug\picfix.csprojResolveAssemblyReference.cache

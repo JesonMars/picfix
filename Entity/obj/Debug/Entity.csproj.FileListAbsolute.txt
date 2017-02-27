@@ -1,0 +1,5 @@
+D:\outsource\picfix\Entity\bin\Debug\Entity.dll
+D:\outsource\picfix\Entity\bin\Debug\Entity.pdb
+D:\outsource\picfix\Entity\obj\Debug\Entity.dll
+D:\outsource\picfix\Entity\obj\Debug\Entity.pdb
+D:\outsource\picfix\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
